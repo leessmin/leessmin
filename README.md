@@ -3,8 +3,8 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
 <img align="right" width="355" src="https://github-readme-stats.vercel.app/api?username=leessmin&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<div align="left">  
-  
+<div align="left">
+
 <a href="https://github.com/leessmin"><img alt="github" src="https://img.shields.io/github/stars/leessmin?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" /></a>
  <a href="https://github.com/leessmin/leessmin">
    <img src="https://komarev.com/ghpvc/?username=leessmin" alt="page views" />
@@ -13,11 +13,10 @@
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
 </div>
 <h2 align="left" >⚡️ 关于</h2>
-<img align="right" src="https://raw.githubusercontent.com/leessmin/github-stats-transparent/master/generated/languages.svg" />
 <ul>
 <li>🔭 最喜欢的编程语言 <a href="https://github.com/golang/go">Go language programming</a></li>
 </ul>
-<img align="right" src="https://raw.githubusercontent.com/leessmin/github-stats-transparent/master/generated/overview.svg" />  
-<img align="left" src="https://i.loli.net/2021/05/22/SKb4avzcqHt6juZ.gif" width="140" height="110"></a>
-<img align="left" src="https://i.loli.net/2021/05/22/SKb4avzcqHt6juZ.gif" width="140" height="110"></a>
-<img align="" src="https://i.loli.net/2021/05/22/SKb4avzcqHt6juZ.gif" width="140" height="110"></a>
+### 统计
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leessmin&theme=dark&layout=compact&hide=html,c%23,javascript,vue,typescript,less)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leessmin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
