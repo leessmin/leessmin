@@ -17,6 +17,6 @@
 
 ### 统计
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leessmin&theme=dark&layout=compact&hide=html,c%23,javascript,vue,typescript,less)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leessmin&theme=dark&theme=transparent)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leessmin&show_icons=true&theme=transparent)
