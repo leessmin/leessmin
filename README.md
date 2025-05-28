@@ -19,4 +19,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leessmin&theme=dark&layout=compact&hide=html,c%23,javascript,vue,typescript,less)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leessmin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
