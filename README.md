@@ -16,6 +16,5 @@
 </ul>
 
 ### 统计
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leessmin)](https://github.com/leessmin/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leessmin&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
