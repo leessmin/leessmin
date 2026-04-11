@@ -16,6 +16,8 @@
 </ul>
 
 ### 统计
+![visitors](https://visitor-badge.glitch.me/badge?page_id=leessmin&left_color=green&right_color=red)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leessmin&theme=dark&theme=transparent&layout=compact)
 
