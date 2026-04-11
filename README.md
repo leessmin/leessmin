@@ -16,9 +16,4 @@
 </ul>
 
 ### 统计
-![visitors](https://visitor-badge.glitch.me/badge?page_id=leessmin&left_color=green&right_color=red)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leessmin&theme=dark&theme=transparent&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leessmin&show_icons=true&theme=transparent)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leessmin&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
